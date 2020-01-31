@@ -2,10 +2,6 @@
 REST API example application
 This is a city-temperature example of a application providing a API to get the temperature.
 
-The entire application is contained within the app.rb file.
-
-config.ru is a minimal Rack configuration for unicorn.
-
 WeatherClient.py runs a simplistic test and generates of API.
 
 When you run the test you can choose one of these city to see the API proccess.
