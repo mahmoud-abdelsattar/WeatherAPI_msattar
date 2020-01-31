@@ -8,7 +8,7 @@ while True:
         r = requests.get(url="http://127.0.0.1:5000/weather/{}".format(city_name))
 
         # r.json.get(put here the key of api inside the jsonify in WeatherApiMsattar)
-        print("{} Temperature is {}".format(city_name, r.json().get("temperature")))
+        print("{} Temperature is {}".format(city_name, r.json().get(city_name)))
 
         print("\r")
         print("THANK YOU !!! \U0001F603")
