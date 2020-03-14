@@ -1,6 +1,5 @@
 Click==7.0
 Flask==1.1.1
-flask-swagger-ui==3.25.0
 gunicorn==19.10.0
 itsdangerous==1.1.0
 Jinja2==2.11.1
