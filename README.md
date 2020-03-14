@@ -59,6 +59,13 @@ Response
 
 ![wetherPostman.png](wetherPostman.png)
 
-###
-heroku link:
-https://weatherapimsattar.herokuapp.com/
+## TRY IT lIVE ON HEROKU
+## heroku link:
+
+### https://weatherapimsattar.herokuapp.com/
+### output:
+## Weather API by Mahmoud Abd Elsattar !
+
+### https://weatherapimsattar.herokuapp.com/weather/Al Ain
+### output:
+## Weather API by Mahmoud Abd Elsattar !
