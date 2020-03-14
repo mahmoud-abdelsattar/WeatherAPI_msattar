@@ -60,3 +60,5 @@ http://127.0.0.1:5000/weather/Cairo
 
 Response
 {"Cairo":30}
+
+![wetherPostman.png](wetherPostman.png)
