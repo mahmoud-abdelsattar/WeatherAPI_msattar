@@ -33,7 +33,7 @@ def get_temperature(city):
             # key is temperature for clients to use it to get the city temperature
             return jsonify({city: temp_response})
         else:
-            return jsonify({"temperature": "not is not existed in our database Sorry For good luck next time!!!! "
+            return jsonify({"temperature": "This is not existed in our database Sorry for that and good luck next time!!!! "
                                            "\U0001F603."})
     except:
         return jsonify("Something went wrong!!!")
