@@ -6,6 +6,36 @@ WeatherClient.py runs a simplistic test and generates of API.
 
 When you run the test you can choose one of these city to see the API proccess.
 
+###
+to use the dashboard follow these steps
+
+* create a virtualenv and activate it
+
+```bash
+$python -m venv venv
+$source venv/bin/activate
+```
+
+* install all the requirements
+
+```bash
+$pip install -r requirements.txt
+```
+
+Now you are ready to go !
+
+* start the app from `app.py`
+
+```bash
+$python app.py
+```
+
+you will find a message ending with the url like so
+
+```bash
+ * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+```
+###
 heroku link:
 https://weatherapimsattar.herokuapp.com/
 
