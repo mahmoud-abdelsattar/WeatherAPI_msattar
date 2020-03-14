@@ -68,4 +68,4 @@ Response
 
 ### https://weatherapimsattar.herokuapp.com/weather/Al Ain
 ### output:
-## Weather API by Mahmoud Abd Elsattar !
+## {"Al Ain":33}
