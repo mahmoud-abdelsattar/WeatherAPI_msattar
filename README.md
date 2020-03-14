@@ -35,10 +35,6 @@ you will find a message ending with the url like so
 ```bash
  * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
 ```
-###
-heroku link:
-https://weatherapimsattar.herokuapp.com/
-
 The API to the example app is described below.
 
 Get Weather Temperature for non existed city:
@@ -62,3 +58,7 @@ Response
 {"Cairo":30}
 
 ![wetherPostman.png](wetherPostman.png)
+
+###
+heroku link:
+https://weatherapimsattar.herokuapp.com/
